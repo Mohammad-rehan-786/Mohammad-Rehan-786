@@ -1,10 +1,4 @@
-<div align="center">
 
-# MOHAMMAD REHAN
-
-### AI/ML Developer × Full Stack Developer
-
-**Building intelligent systems • Modern web experiences • Real-world solutions**
 
 <div align="center">
 
