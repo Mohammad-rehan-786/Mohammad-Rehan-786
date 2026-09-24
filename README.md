@@ -9,7 +9,7 @@
 <br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src=["https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-rehan-6b9187389?utm_source=share_via&utm_content=profile&utm_medium=member_android")
+<img src=(https://www.linkedin.com/in/mohammad-rehan-6b9187389?utm_source=share_via&utm_content=profile&utm_medium=member_android")
 </a>
 
 <a href="YOUR_GITHUB_URL">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<imgsrc="https://img.shields.io/badge/EmailRehanali837784@gmai.com?style=for-the-badge&logo=gmail&logoColor=white">
+<imgsrc="EmailRehanali837784@gmail.com?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
