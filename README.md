@@ -1,16 +1,177 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mohammad-rehan-786/Mohammad-Rehan-786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MOHAMMAD REHAN
 
-Here are some ideas to get you started:
+### AI/ML Developer × Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building intelligent systems • Modern web experiences • Real-world solutions**
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src=["https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mohammad-rehan-6b9187389?utm_source=share_via&utm_content=profile&utm_medium=member_android")
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="[(https://github.com/Mohammad-rehan-786)?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<imgsrc="https://img.shields.io/badge/EmailRehanali837784@gmai.com?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a B.Tech Computer Science student specializing in **Artificial Intelligence
+and Machine Learning**.
+
+I enjoy turning ideas into practical software using **AI, modern web
+technologies, and automation**.
+
+I learn by building real-world projects, experimenting with new technologies,
+and solving problems through code.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45">
+<img src="https://skillicons.dev/icons?i=javascript" height="45">
+<img src="https://skillicons.dev/icons?i=c" height="45">
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="45">
+<img src="https://skillicons.dev/icons?i=css" height="45">
+<img src="https://skillicons.dev/icons?i=react" height="45">
+<img src="https://skillicons.dev/icons?i=vite" height="45">
+</p>
+
+### ⚡ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45">
+<img src="https://skillicons.dev/icons?i=express" height="45">
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45">
+</p>
+
+**Exploring:** Machine Learning • Generative AI • LLMs • AI APIs • Automation
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45">
+<img src="https://skillicons.dev/icons?i=mysql" height="45">
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45">
+<img src="https://skillicons.dev/icons?i=github" height="45">
+<img src="https://skillicons.dev/icons?i=vscode" height="45">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Attack on Titan — Cinematic Web Experience
+
+A cinematic interactive website built with **React + Vite**, focused on
+immersive visuals, animations and smooth scrolling interactions.
+
+**Tech:** React • Vite • JavaScript • GSAP • CSS
+
+---
+
+### 🤖 AI Voice Assistant
+
+A Python-based voice assistant combining speech recognition,
+text-to-speech and AI-powered interaction.
+
+**Tech:** Python • Speech Recognition • Text-to-Speech • AI
+
+---
+
+### 🧠 AI / ML Projects
+
+A collection of projects and experiments focused on Artificial Intelligence,
+Machine Learning, automation and real-world problem solving.
+
+---
+
+## 🧪 Currently Building
+
+> Building practical projects that combine **AI + modern software development**.
+
+- 🤖 AI-powered applications
+- 🌐 Full-stack systems
+- 🧠 Generative AI projects
+- ⚡ Intelligent automation
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models
+- Machine Learning
+- AI Agents & Automation
+- Data Structures & Algorithms
+- Backend Development
+
+---
+
+## 🏆 Hackathons & Activities
+
+- 🚀 Smart India Hackathon
+- 🤖 Build with AI
+- 🧠 Brainwave Hackathon
+- 📊 Datathon
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" height="180">
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-rehan-786&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### 💡 Build. Learn. Experiment. Solve.
+
+</div>
