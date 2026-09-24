@@ -146,25 +146,7 @@ Machine Learning, automation and real-world problem solving.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" height="180">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-rehan-786&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%">
-
-</div>
 
 ---
 
