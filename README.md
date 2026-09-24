@@ -6,14 +6,23 @@
 
 **Building intelligent systems • Modern web experiences • Real-world solutions**
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111F,100:00D9FF&height=180&section=header&text=MOHAMMAD%20REHAN&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=00D9FF&animation=fadeIn" width="100%"/>
+
+</div>
+<div align="center">
+
+### Building intelligent systems • Modern web experiences • Real-world solutions
+
 <br>
 
 <a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
 <a href="https://github.com/Mohammad-rehan-786">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 <a href="mailto:Rehanali837784@gmail.com">
