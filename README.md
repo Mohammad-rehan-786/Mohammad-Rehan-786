@@ -1,150 +1,82 @@
+<p align=“center”>
+<picture>
+<source media=“(prefers-color-scheme: dark)” srcset=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/main/dark.svg”>
+<source media=“(prefers-color-scheme: light)” srcset=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/main/light.svg”>
+<img alt=“Mohammad Rehan — AI/ML Student and Developer” src=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/main/light.svg” width=“100%”>
+</picture>
+</p>
 
+<h1 align=“center”>Hi, I’m Mohammad Rehan 👋</h1>
+<h3 align=“center”>B.Tech Student | Artificial Intelligence & Machine Learning</h3>
 
-<div align="center">
+<p align=“center”>
+Building practical projects, learning how intelligent systems work, and turning ideas into useful software.
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111F,100:00D9FF&height=180&section=header&text=MOHAMMAD%20REHAN&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=AI%2FML%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&descColor=00D9FF&animation=fadeIn" width="100%"/>
-
-</div>
-<div align="center">
-
-### Building intelligent systems • Modern web experiences • Real-world solutions
-
-<br>
-
-<a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
-<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black">
+<p align=“center”>
+<a href=“https://github.com/Mohammad-Rehan-786”>
+<img src=“https://img.shields.io/badge/GitHub-Mohammad--Rehan--786-0A101F?style=for-the-badge&logo=github&logoColor=white” alt=“GitHub profile”>
 </a>
-
-<a href="https://github.com/Mohammad-rehan-786">
-<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black">
+<a href=“https://www.linkedin.com/in/mohammad-rehan-6b9187389/”>
+<img src=“https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white” alt=“LinkedIn profile”>
 </a>
+</p>
 
-<a href="mailto:Rehanali837784@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+👨‍💻 About Me
+🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning.
+🧠 Interested in Generative AI, Machine Learning, Python, and data-driven applications.
+🛠️ Learning by building projects and improving my problem-solving skills.
+🌱 Currently strengthening my development skills and exploring practical AI/ML workflows.
+🤝 Open to collaborating on meaningful student, AI/ML, and open-source projects.
+🧰 Tech Stack
+Keep this section honest: remove any technology you haven’t used yet, and add tools as you gain practical experience.
+
+<p align=“center”>
+<img src=“https://img.shields.io/badge/Python-Getting hands--on-3776AB?style=for-the-badge&logo=python&logoColor=white” alt=“Python”>
+<img src=“https://img.shields.io/badge/Git %26 GitHub-Version Control-F05032?style=for-the-badge&logo=git&logoColor=white” alt=“Git and GitHub”>
+<img src=“https://img.shields.io/badge/AI %2F ML-Learning-8B5CF6?style=for-the-badge” alt=“AI and machine learning”>
+</p>
+
+<!-- Add badges for technologies you have actually used, such as NumPy, Pandas, scikit-learn, SQL, JavaScript, React, or PyTorch. -->
+
+🚀 Featured Projects
+Add your strongest real projects here. Replace the examples below with your actual repository names, links, and descriptions—do not leave placeholder links in the finished profile.
+
+Project	What it does	Tech stack
+Project One	Replace with a short description of a real project and the problem it solves.	Add actual tools
+Project Two	Replace with a second project, highlighting your contribution and key feature.	Add actual tools
+Project Three	Replace with an AI/ML, automation, or full-stack project when you have one ready.	Add actual tools
+📊 GitHub Overview
+<p align=“center”>
+<img src=“https://github-readme-stats.vercel.app/api?username=Mohammad-Rehan-786&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F” height=“165” alt=“GitHub statistics”>
+<img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Rehan-786&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F” height=“165” alt=“Most used programming languages”>
+</p>
+
+<p align=“center”>
+<img src=“https://streak-stats.demolab.com/?user=Mohammad-Rehan-786&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B” width=“100%” alt=“GitHub contribution streak”>
+</p>
+
+Note: These cards depend on third-party services and may be delayed or rate-limited. The public github-readme-stats instance is best-effort. For a more reliable setup, follow the setup notes and consider generating static stats cards with GitHub Actions or deploying a maintained compatible service. Language cards measure code volume, not overall skill.
+
+🐍 Contribution Snake
+<p align=“center”>
+<picture>
+<source media=“(prefers-color-scheme: dark)” srcset=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/output/github-snake-dark.svg”>
+<source media=“(prefers-color-scheme: light)” srcset=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/output/github-snake.svg”>
+<img alt=“Snake animation of my GitHub contributions” src=“https://raw.githubusercontent.com/Mohammad-Rehan-786/Mohammad-Rehan-786/output/github-snake.svg” width=“100%”>
+</picture>
+</p>
+
+🔗 Connect With Me
+<p align=“center”>
+<a href=“https://www.linkedin.com/in/mohammad-rehan-6b9187389/”>
+<img src=“https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white” alt=“LinkedIn”>
 </a>
-
-</div>
-
----
-
-## 🧠 About Me
-
-I'm a B.Tech Computer Science student specializing in **Artificial Intelligence
-and Machine Learning**.
-
-I enjoy turning ideas into practical software using **AI, modern web
-technologies, and automation**.
-
-I learn by building real-world projects, experimenting with new technologies,
-and solving problems through code.
-
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="45">
-<img src="https://skillicons.dev/icons?i=javascript" height="45">
-<img src="https://skillicons.dev/icons?i=c" height="45">
+<a href=“https://github.com/Mohammad-Rehan-786”>
+<img src=“https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white” alt=“GitHub”>
+</a>
 </p>
 
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" height="45">
-<img src="https://skillicons.dev/icons?i=css" height="45">
-<img src="https://skillicons.dev/icons?i=react" height="45">
-<img src="https://skillicons.dev/icons?i=vite" height="45">
+<p align=“center”>
+<i>Learning consistently, building thoughtfully, and improving one project at a time.</i>
 </p>
-
-### ⚡ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45">
-<img src="https://skillicons.dev/icons?i=express" height="45">
-</p>
-
-### 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="45">
-</p>
-
-**Exploring:** Machine Learning • Generative AI • LLMs • AI APIs • Automation
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45">
-<img src="https://skillicons.dev/icons?i=mysql" height="45">
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="45">
-<img src="https://skillicons.dev/icons?i=github" height="45">
-<img src="https://skillicons.dev/icons?i=vscode" height="45">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 Attack on Titan — Cinematic Web Experience
-
-A cinematic interactive website built with **React + Vite**, focused on
-immersive visuals, animations and smooth scrolling interactions.
-
-**Tech:** React • Vite • JavaScript • GSAP • CSS
-
----
-
-### 🤖 AI Voice Assistant
-
-A Python-based voice assistant combining speech recognition,
-text-to-speech and AI-powered interaction.
-
-**Tech:** Python • Speech Recognition • Text-to-Speech • AI
-
----
-
-### 🧠 AI / ML Projects
-
-A collection of projects and experiments focused on Artificial Intelligence,
-Machine Learning, automation and real-world problem solving.
-
----
-
-## 🧪 Currently Building
-
-> Building practical projects that combine **AI + modern software development**.
-
-- 🤖 AI-powered applications
-- 🌐 Full-stack systems
-- 🧠 Generative AI projects
-- ⚡ Intelligent automation
-
----
-
-## 🌱 Currently Learning
-
-- Generative AI
-- Large Language Models
-- Machine Learning
-- AI Agents & Automation
-- Data Structures & Algorithms
-- Backend Development
-
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 💡 Build. Learn. Experiment. Solve.
-
-</div>
