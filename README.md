@@ -1,116 +1,177 @@
+<div align="center">
+
+# MOHAMMAD REHAN
+
+### AI/ML Developer × Full Stack Developer
+
+**Building intelligent systems • Modern web experiences • Real-world solutions**
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a B.Tech Computer Science student specializing in **Artificial Intelligence
+and Machine Learning**.
+
+I enjoy turning ideas into practical software using **AI, modern web
+technologies, and automation**.
+
+I learn by building real-world projects, experimenting with new technologies,
+and solving problems through code.
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45">
+<img src="https://skillicons.dev/icons?i=javascript" height="45">
+<img src="https://skillicons.dev/icons?i=c" height="45">
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="45">
+<img src="https://skillicons.dev/icons?i=css" height="45">
+<img src="https://skillicons.dev/icons?i=react" height="45">
+<img src="https://skillicons.dev/icons?i=vite" height="45">
+</p>
+
+### ⚡ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="45">
+<img src="https://skillicons.dev/icons?i=express" height="45">
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45">
+</p>
+
+**Exploring:** Machine Learning • Generative AI • LLMs • AI APIs • Automation
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="45">
+<img src="https://skillicons.dev/icons?i=mysql" height="45">
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45">
+<img src="https://skillicons.dev/icons?i=github" height="45">
+<img src="https://skillicons.dev/icons?i=vscode" height="45">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Attack on Titan — Cinematic Web Experience
+
+A cinematic interactive website built with **React + Vite**, focused on
+immersive visuals, animations and smooth scrolling interactions.
+
+**Tech:** React • Vite • JavaScript • GSAP • CSS
+
+---
+
+### 🤖 AI Voice Assistant
+
+A Python-based voice assistant combining speech recognition,
+text-to-speech and AI-powered interaction.
+
+**Tech:** Python • Speech Recognition • Text-to-Speech • AI
+
+---
+
+### 🧠 AI / ML Projects
+
+A collection of projects and experiments focused on Artificial Intelligence,
+Machine Learning, automation and real-world problem solving.
+
+---
+
+## 🧪 Currently Building
+
+> Building practical projects that combine **AI + modern software development**.
+
+- 🤖 AI-powered applications
+- 🌐 Full-stack systems
+- 🧠 Generative AI projects
+- ⚡ Intelligent automation
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- Large Language Models
+- Machine Learning
+- AI Agents & Automation
 - Data Structures & Algorithms
 - Backend Development
 
 ---
-## 🚀 Featured Projects
 
-<table>
-<tr>
+## 🏆 Hackathons & Activities
 
-<td width="50%">
-
-### 🎬 Attack on Titan
-
-**Cinematic Web Experience**
-
-A cinematic React + Vite experience inspired by Attack on Titan, designed with immersive visuals, smooth scrolling and advanced animations.
-
-**Tech Stack**
-
-`React` `Vite` `JavaScript` `GSAP` `CSS`
-
-**Highlights**
-- 🎥 Cinematic UI
-- ⚡ GSAP animations
-- 🖱️ Scroll interactions
-- 📱 Responsive design
-- 🧩 Component-based architecture
-
-<br>
-
-<a href="YOUR_AOT_GITHUB_LINK">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Voice Assistant
-
-**Python AI Assistant**
-
-A voice-based assistant combining speech recognition, text-to-speech and AI-powered interaction.
-
-**Tech Stack**
-
-`Python` `Speech Recognition` `TTS` `AI`
-
-**Highlights**
-- 🎙️ Voice input
-- 🗣️ Speech-to-text
-- 🔊 Text-to-speech
-- 🧠 AI interaction
-- ⚙️ Automation capabilities
-
-<br>
-
-<a href="YOUR_AI_GITHUB_LINK">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 AI / ML Projects
-
-**Intelligent Problem Solving**
-
-A collection of AI and Machine Learning experiments focused on practical applications and real-world problem solving.
-
-**Tech Stack**
-
-`Python` `Machine Learning` `AI APIs`
-
-**Focus Areas**
-- 🤖 Artificial Intelligence
-- 📊 Machine Learning
-- 🧠 Generative AI
-- ⚙️ Automation
-- 🔬 Experimentation
-
-</td>
-
-<td width="50%">
-
-### 🚀 Hackathon Projects
-
-**Ideas → Prototypes → Solutions**
-
-Projects developed around real-world problem statements through hackathons and innovation challenges.
-
-**Focus**
-
-`AI` `Innovation` `Problem Solving`
-
-**Activities**
-- Smart India Hackathon
-- Build with AI
-- Brainwave
-- Datathon
-
-</td>
-
-</tr>
-</table>
+- 🚀 Smart India Hackathon
+- 🤖 Build with AI
+- 🧠 Brainwave Hackathon
+- 📊 Datathon
 
 ---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" height="180">
+
+</div>
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-rehan-786&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### 💡 Build. Learn. Experiment. Solve.
+
+</div>
