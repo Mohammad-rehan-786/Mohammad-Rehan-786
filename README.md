@@ -1,177 +1,103 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:07111F,100:00D9FF&height=200&section=header&text=MOHAMMAD%20REHAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&descColor=00D9FF&animation=fadeIn" width="100%" alt="Mohammad Rehan - AI and Full Stack Developer"/>Building. Learning. Experimenting. Solving.
 
-# MOHAMMAD REHAN
+Turning ideas into intelligent and practical software solutions.
 
-### AI/ML Developer × Full Stack Developer
-
-**Building intelligent systems • Modern web experiences • Real-world solutions**
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
+<img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
 </a>
+<a href="https://github.com/Mohammad-rehan-786">
+<img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a></div>---
 
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+🧠 About Me
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Hey! I'm Mohammad Rehan, a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-</div>
-
----
-
-## 🧠 About Me
-
-I'm a B.Tech Computer Science student specializing in **Artificial Intelligence
-and Machine Learning**.
-
-I enjoy turning ideas into practical software using **AI, modern web
-technologies, and automation**.
-
-I learn by building real-world projects, experimenting with new technologies,
-and solving problems through code.
+- 🤖 Interested in AI, Machine Learning and Generative AI.
+- 🌐 Exploring modern web development and full-stack applications.
+- 💡 Interested in turning real-world problems into practical software solutions.
+- 🛠️ Learning by building, experimenting and improving my code.
+- 🎯 Working towards becoming a stronger AI/ML and software developer.
 
 ---
 
-## ⚙️ Tech Stack
+⚙️ Technology Stack
 
-### 💻 Languages
+💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="45">
-<img src="https://skillicons.dev/icons?i=javascript" height="45">
-<img src="https://skillicons.dev/icons?i=c" height="45">
-</p>
-
-### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=python,javascript,c" alt="Python, JavaScript and C"/>
+</p>🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html" height="45">
-<img src="https://skillicons.dev/icons?i=css" height="45">
-<img src="https://skillicons.dev/icons?i=react" height="45">
-<img src="https://skillicons.dev/icons?i=vite" height="45">
-</p>
-
-### ⚡ Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="HTML, CSS, React, Vite and Tailwind CSS"/>
+</p>⚡ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45">
-<img src="https://skillicons.dev/icons?i=express" height="45">
-</p>
-
-### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express"/>
+</p>🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="45">
-</p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+</p>Areas of interest: Machine Learning · Generative AI · LLMs · AI APIs · Intelligent Automation
 
-**Exploring:** Machine Learning • Generative AI • LLMs • AI APIs • Automation
-
-### 🗄️ Database
+🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45">
-<img src="https://skillicons.dev/icons?i=mysql" height="45">
-</p>
-
-### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
+</p>🛠️ Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" height="45">
-<img src="https://skillicons.dev/icons?i=github" height="45">
-<img src="https://skillicons.dev/icons?i=vscode" height="45">
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+</p>---
+
+🚀 Projects & Experiments
+
+<div align="center">Project| Description| Technologies
+🎬 Cinematic Web Experience| Exploring immersive interfaces, animations and modern web design| React · Vite · JavaScript
+🤖 AI Voice Assistant| An AI assistant concept focused on voice interaction and automation| Python · Speech · AI APIs
+🧠 AI/ML Experiments| Learning and experimenting with intelligent systems and machine learning| Python · AI/ML
+⚡ Developer Tools & Automation| Exploring ways to simplify repetitive tasks through software| Python · APIs
+
+</div>«These are project directions, not claims that every project is completed. Add repository links and detailed features when the corresponding projects are available.»
 
 ---
 
-## 🚀 Featured Projects
+🧪 Current Focus
 
-### 🎬 Attack on Titan — Cinematic Web Experience
-
-A cinematic interactive website built with **React + Vite**, focused on
-immersive visuals, animations and smooth scrolling interactions.
-
-**Tech:** React • Vite • JavaScript • GSAP • CSS
-
----
-
-### 🤖 AI Voice Assistant
-
-A Python-based voice assistant combining speech recognition,
-text-to-speech and AI-powered interaction.
-
-**Tech:** Python • Speech Recognition • Text-to-Speech • AI
+> EXPLORING_AI
+> BUILDING_WEB_APPLICATIONS
+> LEARNING_MACHINE_LEARNING
+> IMPROVING_PROBLEM_SOLVING
+> EXPERIMENTING_WITH_AUTOMATION
 
 ---
 
-### 🧠 AI / ML Projects
+🌱 Currently Learning
 
-A collection of projects and experiments focused on Artificial Intelligence,
-Machine Learning, automation and real-world problem solving.
-
----
-
-## 🧪 Currently Building
-
-> Building practical projects that combine **AI + modern software development**.
-
-- 🤖 AI-powered applications
-- 🌐 Full-stack systems
-- 🧠 Generative AI projects
-- ⚡ Intelligent automation
+- Artificial Intelligence and Machine Learning
+- Generative AI and Large Language Models
+- Full-Stack Web Development
+- Data Structures and Algorithms
+- Backend Development and APIs
+- Software Engineering Fundamentals
 
 ---
 
-## 🌱 Currently Learning
+📊 GitHub Activity
 
-- Generative AI
-- Large Language Models
-- Machine Learning
-- AI Agents & Automation
-- Data Structures & Algorithms
-- Backend Development
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Mohammad-rehan-786&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/></div>---
 
----
+🤝 Let's Connect
 
-## 🏆 Hackathons & Activities
+<div align="center">I'm interested in technology, collaboration and building useful things.
 
-- 🚀 Smart India Hackathon
-- 🤖 Build with AI
-- 🧠 Brainwave Hackathon
-- 📊 Datathon
+<a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a><a href="https://github.com/Mohammad-rehan-786">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+</a>"BUILD > LEARN > EXPERIMENT > SOLVE"
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF" height="180">
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-rehan-786&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%">
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-### 💡 Build. Learn. Experiment. Solve.
+<sub>Thanks for visiting my profile!</sub>
 
 </div>
