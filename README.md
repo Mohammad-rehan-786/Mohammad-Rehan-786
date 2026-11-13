@@ -1,200 +1,233 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:003B49&height=8" width="100%" alt="Neon divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:003B49,100:00D9FF&height=230&section=header&text=MOHAMMAD%20REHAN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20DEVELOPER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=17&descColor=00E5FF&descAlignY=58&animation=fadeIn" width="100%" alt="Mohammad Rehan"/>
 
-# `> MOHAMMAD REHAN_`
+### Building Intelligent Systems · Creating Modern Experiences
 
-### AI/ML DEVELOPER × FULL STACK DEVELOPER
+*Turning ideas into practical technology solutions.*
 
-**Building intelligent systems • Modern web experiences • Real-world solutions**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mohammad-rehan-6b9187389/)
-[![GitHub](https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohammad-rehan-786)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B49,100:020617&height=8" width="100%" alt="Neon divider"/>
+<a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Mohammad-rehan-786">
+<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+</a>
 
 </div>
 
-## `01 // ABOUT ME`
+---
+
+## 🧠 ABOUT ME
 
 ```text
-IDENTITY  : Mohammad Rehan
-ROLE      : B.Tech CSE Student | AI & ML
-MISSION   : Build useful technology through code
-INTERESTS : Artificial Intelligence, Web Development,
-            Automation and Problem Solving
-STATUS    : Learning • Building • Experimenting
+╭──────────────────────────────────────────────╮
+│  DEVELOPER IDENTITY                           │
+│                                               │
+│  NAME       : Mohammad Rehan                  │
+│  EDUCATION  : B.Tech Computer Science        │
+│  SPECIALITY : Artificial Intelligence & ML   │
+│  INTERESTS  : AI • Web Development • Coding  │
+│  MISSION    : Build. Innovate. Solve.         │
+╰──────────────────────────────────────────────╯
 ```
 
-I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy exploring new technologies and turning ideas into practical software projects.
+Hey! I'm **Mohammad Rehan**, a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-- 🤖 Exploring AI, Machine Learning and Generative AI.
-- 🌐 Interested in modern frontend and full-stack development.
-- ⚡ Learning to build useful applications and automation tools.
-- 🧠 Improving my programming and problem-solving skills.
+I enjoy building software projects, exploring emerging technologies and turning creative ideas into practical applications.
+
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌐 Building modern web applications.
+- ⚡ Interested in automation and intelligent systems.
+- 💻 Improving my programming and problem-solving skills.
+- 🚀 Passionate about technology, innovation and development.
 
 ---
 
-## `02 // TECH STACK`
+## ⚙️ TECHNOLOGY STACK
 
 <div align="center">
 
-**LANGUAGES**
+### PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c&theme=dark" alt="Python, JavaScript and C"/>
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" alt="Python, C and JavaScript"/>
 
-**FRONTEND**
+### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="HTML, CSS, React and Vite"/>
 
-**BACKEND & DATABASE**
+### BACKEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/>
 
-**TOOLS**
+### TOOLS & TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+
+### AI / MACHINE LEARNING
+
+<img src="https://img.shields.io/badge/Python-061A2B?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-061A2B?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Machine_Learning-061A2B?style=for-the-badge&logoColor=00E5FF"/>
 
 </div>
 
-> Keep only the technologies you have actually used. Add AI/ML libraries such as NumPy, Pandas or Scikit-learn when they reflect your real experience.
-
 ---
 
-## `03 // FEATURED PROJECTS`
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Cinematic Web Experience
+### 🎬 Attack on Titan
 
-A cinematic web design project focused on immersive visuals, smooth scrolling and interactive animations.
+**Cinematic Web Experience**
 
-**TECH**
+An immersive cinematic website inspired by Attack on Titan, featuring modern UI design and scroll-based animations.
 
-`React` `Vite` `JavaScript` `GSAP`
+**TECH STACK**
 
-**FOCUS**
+`React` `Vite` `JavaScript` `GSAP` `CSS`
 
-- Modern interface design
-- Scroll-based interactions
-- Responsive layouts
+**KEY FEATURES**
+
+- Cinematic interface
+- GSAP animations
+- Scroll interactions
+- Responsive components
 
 </td>
+<td width="50%" valign="top">
+
+### 📝 QuickNote
+
+**Smart Note-Taking Application**
+
+A lightweight, backend-less note-taking application using browser localStorage for persistent data.
+
+**TECH STACK**
+
+`React` `JavaScript` `CSS` `localStorage`
+
+**KEY FEATURES**
+
+- Create and manage notes
+- Local data persistence
+- Backend-less architecture
+- Simple user experience
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI Voice Assistant
 
-A project direction focused on voice interaction, speech processing and intelligent assistance.
+**Python-Based Voice Assistant**
 
-**TECH**
+An AI assistant project exploring speech recognition, text-to-speech and intelligent interactions.
 
-`Python` `Speech` `AI APIs`
+**TECH STACK**
 
-**FOCUS**
+`Python` `Speech Recognition` `TTS` `AI APIs`
+
+**KEY FOCUS**
 
 - Voice interaction
-- Speech-to-text and text-to-speech
-- Automation possibilities
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI / ML Lab
-
-A space for machine learning experiments and practical AI applications.
-
-**TECH**
-
-`Python` `Machine Learning`
-
-**FOCUS**
-
-- Data-driven experiments
-- Model development
-- Practical problem solving
+- Speech processing
+- AI-powered responses
+- Automation
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Automation Lab
+### 🧠 AI / ML Experiments
 
-Exploring tools and workflows that reduce repetitive work.
+**Artificial Intelligence Lab**
 
-**TECH**
+Exploring AI and machine learning concepts through practical experiments and application development.
 
-`Python` `APIs` `Automation`
+**TECH STACK**
 
-**FOCUS**
+`Python` `AI` `Machine Learning`
 
-- Workflow improvement
-- API integrations
-- Useful developer tools
+**KEY FOCUS**
+
+- Intelligent applications
+- Practical experimentation
+- Problem solving
+- AI-powered solutions
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🖥️ CURRENT OPERATIONS
+
 <div align="center">
 
-**More real projects and repository links will be added as they become available.**
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 
 </div>
 
----
-
-## `04 // CURRENT OPERATIONS`
-
 ```text
-[01] Exploring       -> Artificial Intelligence
-[02] Learning        -> Machine Learning
-[03] Building        -> Web Applications
-[04] Improving       -> Data Structures & Algorithms
-[05] Experimenting   -> Generative AI & Automation
+> Developing modern web applications
+> Exploring intelligent AI systems
+> Experimenting with new technologies
+> Building practical software solutions
+> Improving development skills
 ```
 
 ---
 
-## `05 // CURRENTLY LEARNING`
+## 📊 GITHUB PROFILE
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-061A2B?style=flat-square&logoColor=00E5FF)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-061A2B?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full_Stack_Development-061A2B?style=flat-square)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-061A2B?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-061A2B?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Mohammad-rehan-786&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" width="75%" alt="GitHub statistics"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
 
 </div>
 
 ---
 
-## `06 // GITHUB ACTIVITY`
+## 🤝 LET'S CONNECT
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mohammad-rehan-786&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="GitHub profile views"/>
+**Have an interesting idea? Let's build something together.**
+
+<a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Mohammad-rehan-786">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+### `BUILD  >  LEARN  >  EXPERIMENT  >  SOLVE`
+
+<sub>Designed with curiosity. Powered by code.</sub>
 
 </div>
-
----
-
-## `07 // CONNECT`
 
 <div align="center">
 
-**Have an interesting idea? Let's connect and build something useful.**
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mohammad-rehan-6b9187389/)
-[![GitHub](https://img.shields.io/badge/EXPLORE_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Mohammad-rehan-786)
-
-### `BUILD > LEARN > EXPERIMENT > SOLVE`
-
-<sub>Designed with curiosity. Built with code.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B49,100:020617&height=100&section=footer" width="100%" alt="Neon footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003B49,100:020617&height=8" width="100%" alt="Neon footer"/>
