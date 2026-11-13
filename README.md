@@ -24,13 +24,13 @@
 
 ```text
 ╭──────────────────────────────────────────────╮
-│  DEVELOPER IDENTITY                           │
-│                                               │
-│  NAME       : Mohammad Rehan                  │
+│              DEVELOPER IDENTITY              │
+│                                              │
+│  NAME       : Mohammad Rehan                 │
 │  EDUCATION  : B.Tech Computer Science        │
 │  SPECIALITY : Artificial Intelligence & ML   │
 │  INTERESTS  : AI • Web Development • Coding  │
-│  MISSION    : Build. Innovate. Solve.         │
+│  MISSION    : BUILD. INNOVATE. SOLVE.        │
 ╰──────────────────────────────────────────────╯
 ```
 
@@ -62,15 +62,15 @@ I enjoy building software projects, exploring emerging technologies and turning 
 
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/>
 
-### TOOLS & TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
-
 ### AI / MACHINE LEARNING
 
 <img src="https://img.shields.io/badge/Python-061A2B?style=for-the-badge&logo=python&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-061A2B?style=for-the-badge&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/Machine_Learning-061A2B?style=for-the-badge&logoColor=00E5FF"/>
+
+### DEVELOPER TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
 
 </div>
 
@@ -100,6 +100,7 @@ An immersive cinematic website inspired by Attack on Titan, featuring modern UI 
 - Responsive components
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📝 QuickNote
@@ -129,20 +130,21 @@ A lightweight, backend-less note-taking application using browser localStorage f
 
 **Python-Based Voice Assistant**
 
-An AI assistant project exploring speech recognition, text-to-speech and intelligent interactions.
+A voice assistant project exploring speech recognition, text-to-speech and intelligent interactions.
 
 **TECH STACK**
 
-`Python` `Speech Recognition` `TTS` `AI APIs`
+`Python` `Speech Recognition` `TTS` `AI`
 
-**KEY FOCUS**
+**KEY FEATURES**
 
 - Voice interaction
 - Speech processing
-- AI-powered responses
-- Automation
+- Text-to-speech
+- Automation possibilities
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🧠 AI / ML Experiments
@@ -172,7 +174,7 @@ Exploring AI and machine learning concepts through practical experiments and app
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-ACTIVELY_BUILDING-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Actively building"/>
 
 </div>
 
@@ -186,21 +188,13 @@ Exploring AI and machine learning concepts through practical experiments and app
 
 ---
 
-## 📊 GITHUB PROFILE
+## 🏆 HACKATHONS & ACTIVITIES
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mohammad-rehan-786&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad-rehan-786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" width="75%" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-rehan-786&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top languages"/>
-
-</div>
+- 🚀 Smart India Hackathon
+- 🤖 Build with AI
+- 🧠 Brainwave
+- 📊 Datathon
+- 💡 Technology and project development
 
 ---
 
@@ -210,17 +204,19 @@ Exploring AI and machine learning concepts through practical experiments and app
 
 **Have an interesting idea? Let's build something together.**
 
+<br/>
+
 <a href="https://www.linkedin.com/in/mohammad-rehan-6b9187389/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://github.com/Mohammad-rehan-786">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-### `BUILD  >  LEARN  >  EXPERIMENT  >  SOLVE`
+### `BUILD > LEARN > EXPERIMENT > SOLVE`
 
 <sub>Designed with curiosity. Powered by code.</sub>
 
@@ -228,6 +224,6 @@ Exploring AI and machine learning concepts through practical experiments and app
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B49,100:020617&height=100&section=footer" width="100%" alt="Neon footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:003B49,100:020617&height=110&section=footer" width="100%" alt="Neon footer"/>
 
 </div>
